@@ -1,0 +1,6 @@
+C:\Users\JORGE\Source\Repos\prueba\PruebaNET\PruebaNET\bin\Debug\PruebaNET.exe.config
+C:\Users\JORGE\Source\Repos\prueba\PruebaNET\PruebaNET\obj\Debug\PruebaNET.csprojResolveAssemblyReference.cache
+C:\Users\JORGE\Source\Repos\prueba\PruebaNET\PruebaNET\bin\Debug\PruebaNET.exe
+C:\Users\JORGE\Source\Repos\prueba\PruebaNET\PruebaNET\bin\Debug\PruebaNET.pdb
+C:\Users\JORGE\Source\Repos\prueba\PruebaNET\PruebaNET\obj\Debug\PruebaNET.exe
+C:\Users\JORGE\Source\Repos\prueba\PruebaNET\PruebaNET\obj\Debug\PruebaNET.pdb
